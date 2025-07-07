@@ -1,0 +1,186 @@
+Uri: https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600,700,800,900|Open+Sans:400,600,700,800
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ-1.ttf
+Content Type: font/ttf
+
+Uri: https://kalvin.netlify.app/blogs-page
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\blogs-page.html
+Content Type: text/html
+
+Uri: https://kalvin.netlify.app/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\css\bootstrap-1.css
+Content Type: text/css
+
+Uri: https://kalvin.netlify.app/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://kalvin.netlify.app/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\css\magnific-popup-1.css
+Content Type: text/css
+
+Uri: https://kalvin.netlify.app/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\css\owl.carousel.min-1.css
+Content Type: text/css
+
+Uri: https://kalvin.netlify.app/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\css\owl.theme.default.min-1.css
+Content Type: text/css
+
+Uri: https://kalvin.netlify.app/css/style.css
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\css\style-1.css
+Content Type: text/css
+
+Uri: https://kalvin.netlify.app/images/blog/img-1.jpg
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\images\blog\img-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://kalvin.netlify.app/images/blog/img-2.jpg
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\images\blog\img-2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://kalvin.netlify.app/images/blog/img-3.jpg
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\images\blog\img-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://kalvin.netlify.app/images/blog/img-4.jpg
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\images\blog\img-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://kalvin.netlify.app/images/blog/img-5.jpg
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\images\blog\img-5.jpg
+Content Type: image/jpeg
+
+Uri: https://kalvin.netlify.app/images/blog/img-6.jpg
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\images\blog\img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://kalvin.netlify.app/images/favicon.ico
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\images\favicon-1.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://kalvin.netlify.app/js/animated.headline.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\animated.headline-1.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\bootstrap.min-1.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\isotope.pkgd.min-1.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\jquery.magnific-popup.min-1.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/jquery.stellar.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\jquery.stellar-1.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/main.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\owl.carousel.min-1.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/particles.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\particles.min.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/scrollIt.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\scrollIt.min-1.js
+Content Type: application/javascript
+
+javascript
+
+Uri: https://kalvin.netlify.app/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/jquery.stellar.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\jquery.stellar.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/main.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\main.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://kalvin.netlify.app/js/scrollIt.min.js
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\js\scrollIt.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-122650090-1
+File Name: C:\Downloaded Web Sites\kalvin.netlify.app\gtag\js
+Content Type: application/javascript
+
